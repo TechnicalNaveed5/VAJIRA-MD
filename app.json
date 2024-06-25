@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=HUVj3BwQ#I_FI-Oc-1NqEV4pml-drbhaAcTQ5KXrE26kroIxPfsw"
         },
     "COMMAND_TYPE": {
             "description": "Put here (button or nonbutton) to change bot command mode",
